@@ -34,45 +34,40 @@
 		<meta property="term" refines="#subject-1">sh85047114</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008110314</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fantasy</meta>
+		<dc:description id="description">A king’s son leaves his home to find adventure, and is put on the path to a legendary well that gives long life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The King of Upmeads has four sons who grow tired of living in the peaceable kindgom and want to adventure abroad. Three are allowed to go, and Ralph is selected to stay home. He cannot put up with being left behind, and runs away, wandering to many lands beyond Upmeads. He falls in with many different characters, some who help and some who betray him. After hearing of a legendary well, the titular Well at the World’s End, he becomes committed to finding his way to this source of healing and long life.&lt;/p&gt;
+			&lt;p&gt;In this long epic narrative, Ralph finds love and loss, takes and releases prisoners, forms alliances and makes pledges with peoples who lived far beyond what was known in Upmeads. He develops from a naive but skilled young knight into a confident war leader. While in the beginning he seems to be carried along by circumstances, he develops more agency as the story progresses.&lt;/p&gt;
+			&lt;p&gt;This novel is considered an early example of high fantasy, taking place in a fictional world (though with some semblance of a Christian Church), with a heroic protagonist and some magical elements. The magic is subtle—some people, usually women, have foresight or some other special ability, and there are a few other supernatural phenomena—but it is largely an adventure of knights and damsels, villains and heroes. The narrative is in an archaic English which has inspired the kind of medieval settings seen in later fantasy works.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/169</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/wellatworldsendt01morruoft</dc:source>
+		<dc:source>https://archive.org/details/wellatworldsendt00morruoft</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Well_at_the_World%27s_End</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-morris_the-well-at-the-worlds-end</meta>
 		<dc:creator id="author">William Morris</dc:creator>
 		<meta property="file-as" refines="#author">Morris, William</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Morris</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n78095326</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Howard Pyle</dc:contributor>
+		<meta property="file-as" refines="#artist">Pyle, Howard</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Howard_Pyle</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79072830</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">John Hamm</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Hamm, John</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jason Livermore</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Livermore, Jason</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/jason-livermore-b854a97</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
