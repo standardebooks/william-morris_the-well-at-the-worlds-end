@@ -29,3 +29,9 @@ p span.i1{
 	text-indent: -1em;
 }
 /* end poetry and song */
+
+/* small caps for blockquote */
+#chapter-3-21 blockquote{
+	font-variant: small-caps;
+}
+/* end small caps for blockquote */
